@@ -1,4 +1,4 @@
-import heroPhoto from '../assets/library.jpg'
+import heroPhoto from '../assets/Library.jpg'
 import { profile } from '../content'
 
 export function Hero() {
